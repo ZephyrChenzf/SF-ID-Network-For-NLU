@@ -58,9 +58,8 @@ O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip
   - **train_SF_only.py**: The code that is used to train the train only containing ID subnet.
   - **utils.py**: It contains some functions relevant with data processing and the ev aluation of FI score in slot-filling task.
   - **data**: It involves the data used in the experiments.
-  
-    -**atis**: This file is about atis dataset, including train/valid/test set.
-    -**snips**: This file is about snips dataset, including train/valid/test set.
+    - **atis**: This file is about atis dataset, including train/valid/test set.
+    - **snips**: This file is about snips dataset, including train/valid/test set.
     
 ### Training parameters:
 
