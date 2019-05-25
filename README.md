@@ -6,7 +6,7 @@ This is the source implementation of ACL2019 accepted paper: A Novel Bi-directio
 
 ## Model Notes
 
-[![img](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU/edit/master/docs/framework.png)](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU/edit/master/docs/framework.png)
+![Alt text](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU/blob/master/docs/framework.png)
 
 **Our model🚀🚀🚀**
 
