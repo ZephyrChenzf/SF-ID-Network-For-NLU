@@ -68,6 +68,10 @@ O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip
   - **use-crf**:  It  depends  on  whether  CRF  layer  is  used,  it  is  belongs  to  boolean  type.  W hen it is set as True, CRF layer is used.
   - **iteration number**: It depends on the iteration number used in iteration mechanism.
   
+### Code reference
+
+[SlotGated-SLU](https://github.com/MiuLab/SlotGated-SLU)
+  
 ## Usage
 
 Here we provide implementations for our models, it is **SF-ID-Network**.
