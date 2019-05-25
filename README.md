@@ -34,7 +34,7 @@ We mainly focus on the ATIS dataset and Snip dataset, and the code takes its ori
 
 ### Format
 
-We assume the corpus is formatted as same as the CoNLL 2003 NER dataset. More specifically, **empty lines** are used as separators between sentences, and the separator between documents is a special line as below.
+We assume the corpus is formatted as same as the ATIS dataset and Snips dataset. More specifically, **seq.in**, **label** and **seq.out** is our data files.
 
 The input and output of the training data is as follows:
 The input is a sentence in **seq.in** in the format:
