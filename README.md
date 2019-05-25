@@ -9,6 +9,7 @@ This is the source implementation of ACL2019 accepted paper: A Novel Bi-directio
 [![img](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU/edit/master/docs/framework.png)](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU/edit/master/docs/framework.png)
 
 **Our model🚀🚀🚀**
+
 The SF-ID network consists of an SF subnet and an ID subnet. The order of the SF and ID subnets can be customized. Depending on the order of the two subnets, the model have two modes: SF-First and ID-First. The former subnet can produce active effects to the latter one by a medium vector.
 
 ## Installation
@@ -57,6 +58,7 @@ O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip
   - **train_SF_only.py**: The code that is used to train the train only containing ID subnet.
   - **utils.py**: It contains some functions relevant with data processing and the ev aluation of FI score in slot-filling task.
   - **data**: It involves the data used in the experiments.
+  
     -**atis**: This file is about atis dataset, including train/valid/test set.
     -**snips**: This file is about snips dataset, including train/valid/test set.
     
