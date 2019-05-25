@@ -30,7 +30,7 @@ pip3 install -r requirements.txt
 
 ## Data
 
-We mainly focus on the ATIS dataset and Snip dataset, and the code takes its original format as input. You should be able to get it [here](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU).
+We mainly focus on the ATIS dataset and Snip dataset, and the code takes its original format as input. You should be able to get it [here](https://github.com/ChenZhongFu/SF-ID-Network-For-NLU/tree/master/data).
 
 ### Format
 
