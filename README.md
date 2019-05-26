@@ -77,7 +77,7 @@ O O O O O B-fromloc.city_name O B-toloc.city_name B-round_trip I-round_trip
 Here we provide implementations for our models, it is **SF-ID-Network**.
 A command example is as follow:
 ```
-python train.py --dataset=snips --priority_order=intent_first --use_crf=False --iteration_num=3
+python train.py --dataset=snips --priority_order=intent_first --use_crf=True --iteration_num=1
 ```
 
 ## Reference
